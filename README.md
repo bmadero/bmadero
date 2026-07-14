@@ -4,7 +4,7 @@ NIH T32 Trainee (TIRS Program) · Started July 2026
 
 ---
 
-I study white matter integrity and cerebral biomarkers of brain aging using PET and MRI. My core postdoc project frames dynamic [¹¹C]PiB PET as a marker of white matter integrity and amyloid burden, with future work extending to cerebral blood flow.
+I study white matter integrity and cerebral biomarkers of brain aging using PET and MRI. My core postdoc project frames dynamic [¹¹C]PiB PET as a marker of white matter integrity and amyloid burden.
 
 My PhD dissertation examined the morphology of the posterior middle frontal sulci (pmfs), a cortical landmark that varies substantially across individuals, and its relationship to executive function and resting-state network topology in older adults. That work drew on the EXTEND dataset and combined structural MRI, resting-state fMRI, group ICA, dual regression, and custom connectivity fingerprinting methods.
 
